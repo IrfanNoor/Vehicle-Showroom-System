@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QCS", "QCS.vbproj", "{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Oceania Enterprise [QCS]", "..\Oceania Enterprise [QCS]\Oceania Enterprise [QCS].vdproj", "{BC5D2F0E-E39B-4260-ADA4-714DF16F237C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		bodoh|Any CPU = bodoh|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.bodoh|Any CPU.ActiveCfg = bodoh|Any CPU
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.bodoh|Any CPU.Build.0 = bodoh|Any CPU
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52E6A69-0DC0-4D39-8FBD-2B095DB9F1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5D2F0E-E39B-4260-ADA4-714DF16F237C}.bodoh|Any CPU.ActiveCfg = Release
+		{BC5D2F0E-E39B-4260-ADA4-714DF16F237C}.Debug|Any CPU.ActiveCfg = Release
+		{BC5D2F0E-E39B-4260-ADA4-714DF16F237C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

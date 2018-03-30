@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QCS">
+</Property><Property Name="Solution File" Value="C:\Users\Aravinda\Desktop\Vehicle Showroom System\Vehicle Showroom\QCS.sln">
+</Property><Property Name="Date" Value="Wednesday, January 04, 2012">
+</Property><Property Name="Time" Value="18:55 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="QCS" Source="QCS.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QCS" Source="QCS.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QCS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QCS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QCS" Source="QCS.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
